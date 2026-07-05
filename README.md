@@ -54,12 +54,11 @@ Claude/Cursor-side for now).
 - "Is $450 a good price for NYC → Lisbon in November? Check flexible dates."
 - "Plan me the cheapest 10–14 day trip to Japan in the next 3 months."
 
-## How it's funded (honesty section)
+## Pricing & funding
 
-Free to use. Booking links are affiliate links (Aviasales/Kiwi) — if you book through
-one, whentofly earns a small commission at no cost to you. Prices come from cached
-airline-ticket data (Travelpayouts) cross-checked against Google Flights; always verify
-the final price on the booking page.
+Free to use, no key. Booking links are affiliate links — commissions fund the service;
+prices are identical for you. Fares come from cached airline-ticket data cross-checked
+against Google Flights; always verify the final price on the booking page.
 
 ## For developers
 

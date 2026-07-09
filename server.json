@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.dimabalony/flights",
-  "description": "Cheapest round-trip across a flexible multi-month date window, with a buy/wait price verdict",
-  "version": "1.0.0",
+  "name": "io.github.dimabalony/whentofly",
+  "description": "whentofly: flight search for AI agents \u2014 cheapest flexible-date round-trips + buy/wait verdict",
+  "version": "1.0.2",
   "websiteUrl": "https://whentofly.io",
   "repository": {
     "url": "https://github.com/dimabalony/whentofly-mcp",

@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "flights": {
+    "whentofly": {
       "url": "https://whentofly.io/mcp?ch=github"
     }
   }
